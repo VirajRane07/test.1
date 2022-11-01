@@ -1,0 +1,20 @@
+1. npm init -y (to create package.json)
+2. npm i express
+3. app.js in folder for server connection thorugh express 
+
+4. middleware
+5. connection to database
+mongodb+srv://GauravDBase:<password>@cluster0.iekucci.mongodb.net/?retryWrites=true&w=majority
+
+6. npm i dotenv
+7. type null > config.env
+8. DB folder connection
+9. model userSchema
+10. postman
+11. data connectivity registration
+12. registration route
+13. login route
+
+
+
+14. npx create-react-app client
