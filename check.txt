@@ -1,0 +1,33 @@
+1 git config --global user.name "UsernameOfGithub"
+
+2 git config --global user.email "email address"
+
+3 git init 
+
+4 git add exp1.txt
+
+5 git diff
+
+6 git add exp1.txt
+
+7 git commit -m "First commit"
+
+8 git branch
+
+9 git branch main
+
+10 git branch
+
+11 git checkout main
+
+12 11 git checkout master
+
+13 git log
+
+14 git remote add origin //link of git hub repo
+
+if remote origin already exist
+
+then 15 git remote remove origin
+
+16 git push origin master
